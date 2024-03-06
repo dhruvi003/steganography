@@ -33,3 +33,4 @@ def generate_data(pixels, data):
         yield pixels[:3]
         yield pixels[3:6]
         yield pixels[6:9]
+
